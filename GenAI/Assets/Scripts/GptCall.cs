@@ -10,8 +10,8 @@ public class ChatGPTAPIExample : MonoBehaviour
     public void Start()
     {
         string prompt = "Hello, ChatGPT!"; // Your message to ChatGPT
-        GPTCall(prompt);
-        
+        StartCoroutine(GPTCall(prompt));
+
     }
 
     IEnumerator GPTCall(string prompt)
