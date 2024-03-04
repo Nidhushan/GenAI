@@ -140,7 +140,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixel Art Diffusion(7)_0_0: 5319962841480421303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
