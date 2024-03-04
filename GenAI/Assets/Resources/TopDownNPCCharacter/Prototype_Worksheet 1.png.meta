@@ -1,0 +1,1099 @@
+fileFormatVersion: 2
+guid: fa21a8445405fbd4596edf2eb9e11537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8720251015118728250
+    second: Prototype_Worksheet_0
+  - first:
+      213: 7118394115239475737
+    second: Prototype_Worksheet_1
+  - first:
+      213: -9119848235890177297
+    second: Prototype_Worksheet_2
+  - first:
+      213: -2186618345426391499
+    second: Prototype_Worksheet_3
+  - first:
+      213: -1995026472990972297
+    second: Prototype_Worksheet_4
+  - first:
+      213: -5845972944920923189
+    second: Prototype_Worksheet_5
+  - first:
+      213: 1234759246784900625
+    second: Prototype_Worksheet_6
+  - first:
+      213: -4512499806062062676
+    second: Prototype_Worksheet_7
+  - first:
+      213: 8283140582230601652
+    second: Prototype_Worksheet_8
+  - first:
+      213: -5594671743641633225
+    second: Prototype_Worksheet_9
+  - first:
+      213: 5104543343397833927
+    second: Prototype_Worksheet_10
+  - first:
+      213: -1103049615465507825
+    second: Prototype_Worksheet_11
+  - first:
+      213: 2874589863707679113
+    second: Prototype_Worksheet_12
+  - first:
+      213: 780532692318968474
+    second: Prototype_Worksheet_13
+  - first:
+      213: -1267789875955028437
+    second: Prototype_Worksheet_14
+  - first:
+      213: -2412666213435306802
+    second: Prototype_Worksheet_15
+  - first:
+      213: -492871907532497432
+    second: Prototype_Worksheet_16
+  - first:
+      213: -3854123609654694765
+    second: Prototype_Worksheet_17
+  - first:
+      213: -1178245145902548097
+    second: Prototype_Worksheet_18
+  - first:
+      213: -947164421479312646
+    second: Prototype_Worksheet_19
+  - first:
+      213: 4205858970225277211
+    second: Prototype_Worksheet_20
+  - first:
+      213: -6947832527698403506
+    second: Prototype_Worksheet_21
+  - first:
+      213: -1148006390195781355
+    second: Prototype_Worksheet_22
+  - first:
+      213: -3492885805791498472
+    second: Prototype_Worksheet_23
+  - first:
+      213: -8136160303091473122
+    second: Prototype_Worksheet_24
+  - first:
+      213: 6866574380100313933
+    second: Prototype_Worksheet_25
+  - first:
+      213: -706077356747048277
+    second: Prototype_Worksheet_26
+  - first:
+      213: -8909101491685228283
+    second: Prototype_Worksheet_27
+  - first:
+      213: 7763511150513121369
+    second: Prototype_Worksheet_28
+  - first:
+      213: -315400708495518772
+    second: Prototype_Worksheet_29
+  - first:
+      213: -4331027038821605792
+    second: Prototype_Worksheet_30
+  - first:
+      213: 6285373186193538845
+    second: Prototype_Worksheet_31
+  - first:
+      213: -1140366545930446956
+    second: Prototype_Worksheet_32
+  - first:
+      213: -8538050935687543129
+    second: Prototype_Worksheet_33
+  - first:
+      213: -3867811002952967481
+    second: Prototype_Worksheet_34
+  - first:
+      213: -3196036825768120862
+    second: Prototype_Worksheet_35
+  - first:
+      213: -8560846918001126718
+    second: Prototype_Worksheet_36
+  - first:
+      213: 677823798909380354
+    second: Prototype_Worksheet_37
+  - first:
+      213: 48027785112949238
+    second: Prototype_Worksheet_38
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 361
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0738d7d3ca1294396778575d7cfcd2
+      internalID: -1530140831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 361
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a4fe96275dab4ab916b1c4939453b
+      internalID: 641571175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6082c3b909a4422439c32bb3a82dae11
+      internalID: -1694938149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b598ebb8945a2542aa80d231b96e7ca
+      internalID: 1102471968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e00667c64046489aa61ea36f91d1c
+      internalID: -9079228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 329
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0b3312d99bf2944a52075a4ecc7d5d
+      internalID: -1609801774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 329
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfc80bccdb084a4c8755e93913356e1
+      internalID: -1584950746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 329
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5514481b3dc782d4b9d8bfa266b4743b
+      internalID: -104752789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 297
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53941d6e92bf614a89888f7dd378276
+      internalID: -2040924582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7064e4e12cc34eba8a7b88f5ff15b
+      internalID: 1237283945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 297
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc585b30b51130b41a4bd1244f6be4e8
+      internalID: -19953957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 297
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee15d1a52b45f44b96791797c823e26
+      internalID: -1499315773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 265
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ddb6f242f6dc4593d39d5937c5494
+      internalID: -1245643838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 265
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b6862396d3cf646aaa170b13e41efa
+      internalID: -496990282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 265
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61e44035c3f104ab7d9ae6e76eafdd
+      internalID: 945324343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 265
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c837168fd6e2ec04ca937e0cba69c064
+      internalID: 2034362998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 233
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b796903edd02e0f40acfd1794a478a0b
+      internalID: -1275903690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 233
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e6a22e79d72d74a8e305a07b5d9f71
+      internalID: 140995207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 233
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d769d2d4ec0c4cb20b0135850d1c3
+      internalID: 906391310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 233
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f409096930a4b24faa21bce00d6be9a
+      internalID: 922749342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff061a89227a044a7942b1bb6a4b3c
+      internalID: 22215146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 201
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaabc032195fd2046a8280b87a314616
+      internalID: 2045897434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 201
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcdb5a2861ed4a48b60f8f85b1f4e66
+      internalID: 306971735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 201
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da32d939779cc4c9dd34022ed5b507
+      internalID: -454599193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 169
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc045dca1baf4ab4190d709f25be8e42
+      internalID: 638352397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 169
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc75d3faccacb44996ef4219fedd7b
+      internalID: -163910630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 137
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f453ca014c5146b21b0a0a774feb1
+      internalID: 1000923367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 137
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221188805bd9838408bd65ce0835f888
+      internalID: 809706983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 105
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c8c12127d8724c843fa7fbb993a44
+      internalID: 1812388130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdae55dc98f481429c45549b8e55b92
+      internalID: -1912750290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb18506c4b72a5408e123385f7b6d37
+      internalID: 1650695669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9be083675b3e64aa58d35aa36803b7
+      internalID: -1327368569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134e323bf11739498733566e7da6df9
+      internalID: -553858489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 41
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8357a52bf68474f489f6917168a10c8a
+      internalID: 929949489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 41
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db46d0cdc72c0d4faa576e2c0972be8
+      internalID: 1065691627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 41
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2fdfac66b4134b88a85c3b9c99819
+      internalID: 2111053954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f6ac19ebafe424ea2ad9cbe0c06391
+      internalID: -2081316159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3cafea5fa6a74caaac3829272f377
+      internalID: -1939878191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prototype_Worksheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4dd89fdd342514781bd2d67c670ada
+      internalID: -20091544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21ba362c659a54a438fa5687c6445edf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Prototype_Worksheet 1_0: -1530140831
+      Prototype_Worksheet 1_1: 641571175
+      Prototype_Worksheet 1_10: -19953957
+      Prototype_Worksheet 1_11: -1499315773
+      Prototype_Worksheet 1_12: -1245643838
+      Prototype_Worksheet 1_13: -496990282
+      Prototype_Worksheet 1_14: 945324343
+      Prototype_Worksheet 1_15: 2034362998
+      Prototype_Worksheet 1_16: -1275903690
+      Prototype_Worksheet 1_17: 140995207
+      Prototype_Worksheet 1_18: 906391310
+      Prototype_Worksheet 1_19: 922749342
+      Prototype_Worksheet 1_2: -1694938149
+      Prototype_Worksheet 1_20: 22215146
+      Prototype_Worksheet 1_21: 2045897434
+      Prototype_Worksheet 1_22: 306971735
+      Prototype_Worksheet 1_23: -454599193
+      Prototype_Worksheet 1_24: 638352397
+      Prototype_Worksheet 1_25: -163910630
+      Prototype_Worksheet 1_26: 1000923367
+      Prototype_Worksheet 1_27: 809706983
+      Prototype_Worksheet 1_28: 1812388130
+      Prototype_Worksheet 1_29: -1912750290
+      Prototype_Worksheet 1_3: 1102471968
+      Prototype_Worksheet 1_30: 1650695669
+      Prototype_Worksheet 1_31: -1327368569
+      Prototype_Worksheet 1_32: -553858489
+      Prototype_Worksheet 1_33: 929949489
+      Prototype_Worksheet 1_34: 1065691627
+      Prototype_Worksheet 1_35: 2111053954
+      Prototype_Worksheet 1_36: -2081316159
+      Prototype_Worksheet 1_37: -1939878191
+      Prototype_Worksheet 1_38: -20091544
+      Prototype_Worksheet 1_4: -9079228
+      Prototype_Worksheet 1_5: -1609801774
+      Prototype_Worksheet 1_6: -1584950746
+      Prototype_Worksheet 1_7: -104752789
+      Prototype_Worksheet 1_8: -2040924582
+      Prototype_Worksheet 1_9: 1237283945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
