@@ -796,6 +796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10f712dbce0b84223a96fd0fb57f23de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  googleTTSApiKey: AIzaSyA14OJ8FQHcnnmwhjPJLcwri6uURLkNOSc
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
