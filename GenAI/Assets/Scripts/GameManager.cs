@@ -19,6 +19,11 @@ public class GameManager : MonoBehaviour
         Instance = this;
     }
 
+    private void Start()
+    {
+        UIManager.Instance.ShowPrompt("Get the artifacts to open the gate");
+    }
+
     public void OpenGate()
     {
         UIManager.Instance.ShowPrompt("The gate has opened.");

@@ -12,6 +12,12 @@ public class UIManager : MonoBehaviour
 
     public void ShowPrompt(string text)
     {
+        //StartCoroutine(SetPromptText(text));
+        promptTMP.text = text;
+    }
+
+    public void ShowTempPrompt(string text)
+    {
         StartCoroutine(SetPromptText(text));
     }
 
@@ -33,8 +39,9 @@ public class UIManager : MonoBehaviour
 
     private IEnumerator SetPromptText(string text)
     {
+        string originalText = promptTMP.text;
         promptTMP.text = text;
         yield return new WaitForSeconds(3.0f);
-        promptTMP.text = "";
+        promptTMP.text = originalText;
     }
 }
