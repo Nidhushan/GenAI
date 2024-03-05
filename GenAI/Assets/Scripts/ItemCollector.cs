@@ -20,12 +20,10 @@ public class ItemCollector : MonoBehaviour
                 isCarryingItem = true;
                 Destroy(currentItem);
                 UIManager.Instance.ShowPrompt("You got the artifact, put the artifact into the box");
-                //Debug.Log("You got the artifact, put the artifact into the box");
             }
             else
             {
-                UIManager.Instance.ShowPrompt("You can only carry one artifact at a time");
-                //Debug.Log("You can only carry one artifact at a time");
+                UIManager.Instance.ShowTempPrompt("You can only carry one artifact at a time");
             }
         }
 
@@ -38,6 +36,10 @@ public class ItemCollector : MonoBehaviour
             if (itemsCollected == itemsTotal)
             {
                 GameManager.Instance.OpenGate();
+            }
+            else
+            {
+                UIManager.Instance.ShowPrompt("Find the next artifact");
             }
         }
     }
