@@ -205,6 +205,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1016,7 +1028,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stage_one_0: -8470222541246932328
+      stage_one_1: -6833195167339645698
+      stage_one_10: 8744707398889440234
+      stage_one_11: -7530477187132388370
+      stage_one_12: -8157677823006133257
+      stage_one_13: 313410131633190335
+      stage_one_14: 4180114537312504759
+      stage_one_15: 247938535980055372
+      stage_one_16: 3896679592727158974
+      stage_one_17: -1522517067657633041
+      stage_one_18: -2605658993539063984
+      stage_one_19: 3472251911854400842
+      stage_one_2: -2721157155893867311
+      stage_one_20: 5102197573564767764
+      stage_one_21: -6616987354969452257
+      stage_one_22: 390618322332811964
+      stage_one_23: -1275556795475427413
+      stage_one_24: 753805316488793551
+      stage_one_25: 3279431840210215918
+      stage_one_26: 5653618997933421686
+      stage_one_27: -2201038568552568805
+      stage_one_28: 4672843968636448632
+      stage_one_29: 3771757243041459137
+      stage_one_3: -6203539288975241788
+      stage_one_30: -3628614705951019276
+      stage_one_31: 2262379850759015020
+      stage_one_32: 3147163921669299836
+      stage_one_33: -3755025117780594494
+      stage_one_34: -3366506790777645828
+      stage_one_35: 5323348639950864137
+      stage_one_36: 5077664708088792999
+      stage_one_37: -8830230298250422734
+      stage_one_4: -6993776930568147474
+      stage_one_5: -5122612292066809247
+      stage_one_6: 8322101502178171161
+      stage_one_7: 6295156891199268065
+      stage_one_8: -2666105240910323980
+      stage_one_9: 459429381752293991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

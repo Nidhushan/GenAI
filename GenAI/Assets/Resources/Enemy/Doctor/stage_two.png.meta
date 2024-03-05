@@ -208,6 +208,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1040,7 +1052,46 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stage_two_0: -7977470191600729008
+      stage_two_1: 8861382482023766096
+      stage_two_10: 4464015581118138816
+      stage_two_11: -576824120437395187
+      stage_two_12: 2261163624478137325
+      stage_two_13: 1818484404601802505
+      stage_two_14: -8857667083185004624
+      stage_two_15: -4765346627124634531
+      stage_two_16: 6776170776935220517
+      stage_two_17: 7063646092124750947
+      stage_two_18: 7506118426928912951
+      stage_two_19: 3802244890764145955
+      stage_two_2: -2049123028887669020
+      stage_two_20: -274199614844130756
+      stage_two_21: -3819665538700826607
+      stage_two_22: -6964514793209954264
+      stage_two_23: 1784731417939158241
+      stage_two_24: 4264577834982893057
+      stage_two_25: -8505341495265084424
+      stage_two_26: 7983965938645809770
+      stage_two_27: -1736664052995472824
+      stage_two_28: -2932076614012240254
+      stage_two_29: -1593739564574177468
+      stage_two_3: 5264438064523903701
+      stage_two_30: 7588610433926904289
+      stage_two_31: -7179481696703291501
+      stage_two_32: -7559930714275386508
+      stage_two_33: 1909836375680138837
+      stage_two_34: -782359428351978647
+      stage_two_35: 4362963736668745156
+      stage_two_36: 6027219305935615932
+      stage_two_37: 3443195143716395291
+      stage_two_38: -4777214246114100537
+      stage_two_4: 7648408784932070254
+      stage_two_5: 4125505243984378389
+      stage_two_6: 7219982207349374263
+      stage_two_7: -4461503019624579155
+      stage_two_8: -1438260674514533393
+      stage_two_9: 4044793905586212251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

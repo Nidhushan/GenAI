@@ -199,6 +199,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -968,7 +980,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      stage_three_0: 2804244790885182149
+      stage_three_1: 4979177748974117735
+      stage_three_10: 22381770454258453
+      stage_three_11: 8345356423586475799
+      stage_three_12: 4989536203877011266
+      stage_three_13: -645598355761877524
+      stage_three_14: 8732473605668689232
+      stage_three_15: -6582250371613942572
+      stage_three_16: 3997117778588867768
+      stage_three_17: 7050876699535520350
+      stage_three_18: -7583843461036084341
+      stage_three_19: -7774531398684764792
+      stage_three_2: 6957638459122217263
+      stage_three_20: 5246861110910765943
+      stage_three_21: 6801381425224492939
+      stage_three_22: -3740673696174014364
+      stage_three_23: -6549433594249007009
+      stage_three_24: 1754171132893284476
+      stage_three_25: -314824752700462366
+      stage_three_26: 1149037733474387578
+      stage_three_27: -773316451019602051
+      stage_three_28: 5626671608485325987
+      stage_three_29: -43030913807352552
+      stage_three_3: 1727845388157251512
+      stage_three_30: 3727735235387922347
+      stage_three_31: 6167883599474207441
+      stage_three_32: 3521844356568788130
+      stage_three_33: 5192107126920116277
+      stage_three_34: -5279727373219781764
+      stage_three_35: -5592698788406880615
+      stage_three_4: -6125316683300485655
+      stage_three_5: 7061201390610926948
+      stage_three_6: 3604872407292649349
+      stage_three_7: 2667837113713756413
+      stage_three_8: 2556659671423017999
+      stage_three_9: -6612505164346637930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
