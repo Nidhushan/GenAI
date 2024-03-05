@@ -5,6 +5,7 @@ using UnityEngine;
 public class ItemCollector : MonoBehaviour
 {
     private int itemsCollected = 0;
+    private int itemsTotal = 3;
     private bool canAcquire = false;
     private bool canPut = false;
     private bool isCarryingItem = false;
@@ -33,7 +34,11 @@ public class ItemCollector : MonoBehaviour
             isCarryingItem = false;
             itemsCollected++;
             UIManager.Instance.SetItemsCollected(itemsCollected);
-            //Debug.Log("You put the artifact into the box");
+
+            if (itemsCollected == itemsTotal)
+            {
+                GameManager.Instance.OpenGate();
+            }
         }
     }
 
