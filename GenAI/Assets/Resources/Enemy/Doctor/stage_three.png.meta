@@ -142,7 +142,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -156,7 +156,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -218,10 +218,10 @@ TextureImporter:
       name: stage_three_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 258
-        width: 33
-        height: 30
+        x: 1
+        y: 259
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,10 +239,10 @@ TextureImporter:
       name: stage_three_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 259
-        width: 33
-        height: 29
+        x: 33
+        y: 260
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: stage_three_2
       rect:
         serializedVersion: 2
-        x: 64
-        y: 258
-        width: 33
-        height: 30
+        x: 65
+        y: 259
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +281,10 @@ TextureImporter:
       name: stage_three_3
       rect:
         serializedVersion: 2
-        x: 96
-        y: 257
-        width: 32
-        height: 30
+        x: 97
+        y: 258
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: stage_three_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 227
-        width: 29
-        height: 30
+        x: 1
+        y: 228
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: stage_three_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 226
-        width: 29
-        height: 30
+        x: 33
+        y: 227
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: stage_three_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 225
-        width: 29
-        height: 30
+        x: 65
+        y: 226
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: stage_three_7
       rect:
         serializedVersion: 2
-        x: 96
-        y: 225
-        width: 29
-        height: 31
+        x: 97
+        y: 226
+        width: 27
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: stage_three_8
       rect:
         serializedVersion: 2
-        x: 5
-        y: 193
-        width: 18
-        height: 30
+        x: 6
+        y: 194
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,10 +407,10 @@ TextureImporter:
       name: stage_three_9
       rect:
         serializedVersion: 2
-        x: 37
-        y: 194
-        width: 18
-        height: 30
+        x: 38
+        y: 195
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: stage_three_10
       rect:
         serializedVersion: 2
-        x: 69
-        y: 196
-        width: 18
-        height: 29
+        x: 70
+        y: 197
+        width: 16
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: stage_three_11
       rect:
         serializedVersion: 2
-        x: 101
-        y: 195
-        width: 18
-        height: 29
+        x: 102
+        y: 196
+        width: 16
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: stage_three_12
       rect:
         serializedVersion: 2
-        x: 3
-        y: 161
-        width: 26
-        height: 31
+        x: 4
+        y: 162
+        width: 24
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -491,10 +491,10 @@ TextureImporter:
       name: stage_three_13
       rect:
         serializedVersion: 2
-        x: 35
-        y: 163
-        width: 26
-        height: 30
+        x: 36
+        y: 164
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: stage_three_14
       rect:
         serializedVersion: 2
-        x: 67
-        y: 162
-        width: 26
-        height: 30
+        x: 68
+        y: 163
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,10 +533,10 @@ TextureImporter:
       name: stage_three_15
       rect:
         serializedVersion: 2
-        x: 99
-        y: 161
-        width: 26
-        height: 30
+        x: 100
+        y: 162
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -554,10 +554,10 @@ TextureImporter:
       name: stage_three_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 130
-        width: 33
-        height: 30
+        x: 1
+        y: 131
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -575,10 +575,10 @@ TextureImporter:
       name: stage_three_17
       rect:
         serializedVersion: 2
-        x: 32
-        y: 131
-        width: 33
-        height: 30
+        x: 33
+        y: 132
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,10 +596,10 @@ TextureImporter:
       name: stage_three_18
       rect:
         serializedVersion: 2
-        x: 64
-        y: 130
-        width: 33
-        height: 30
+        x: 65
+        y: 131
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,10 +617,10 @@ TextureImporter:
       name: stage_three_19
       rect:
         serializedVersion: 2
-        x: 96
-        y: 129
-        width: 32
-        height: 30
+        x: 97
+        y: 130
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: stage_three_20
       rect:
         serializedVersion: 2
-        x: 3
-        y: 97
-        width: 26
-        height: 31
+        x: 4
+        y: 98
+        width: 24
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,10 +659,10 @@ TextureImporter:
       name: stage_three_21
       rect:
         serializedVersion: 2
-        x: 35
-        y: 99
-        width: 26
-        height: 30
+        x: 36
+        y: 100
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -680,10 +680,10 @@ TextureImporter:
       name: stage_three_22
       rect:
         serializedVersion: 2
-        x: 67
-        y: 98
-        width: 26
-        height: 30
+        x: 68
+        y: 99
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -701,10 +701,10 @@ TextureImporter:
       name: stage_three_23
       rect:
         serializedVersion: 2
-        x: 99
-        y: 97
-        width: 26
-        height: 30
+        x: 100
+        y: 98
+        width: 24
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -722,10 +722,10 @@ TextureImporter:
       name: stage_three_24
       rect:
         serializedVersion: 2
-        x: 9
-        y: 65
-        width: 18
-        height: 30
+        x: 10
+        y: 66
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -743,10 +743,10 @@ TextureImporter:
       name: stage_three_25
       rect:
         serializedVersion: 2
-        x: 41
-        y: 66
-        width: 18
-        height: 30
+        x: 42
+        y: 67
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -764,10 +764,10 @@ TextureImporter:
       name: stage_three_26
       rect:
         serializedVersion: 2
-        x: 73
-        y: 68
-        width: 18
-        height: 29
+        x: 74
+        y: 69
+        width: 16
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -785,10 +785,10 @@ TextureImporter:
       name: stage_three_27
       rect:
         serializedVersion: 2
-        x: 105
-        y: 67
-        width: 18
-        height: 29
+        x: 106
+        y: 68
+        width: 16
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -806,10 +806,10 @@ TextureImporter:
       name: stage_three_28
       rect:
         serializedVersion: 2
-        x: 3
-        y: 35
-        width: 29
-        height: 30
+        x: 4
+        y: 36
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -827,10 +827,10 @@ TextureImporter:
       name: stage_three_29
       rect:
         serializedVersion: 2
-        x: 35
-        y: 34
-        width: 29
-        height: 30
+        x: 36
+        y: 35
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +848,10 @@ TextureImporter:
       name: stage_three_30
       rect:
         serializedVersion: 2
-        x: 67
-        y: 33
-        width: 29
-        height: 30
+        x: 68
+        y: 34
+        width: 27
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -869,10 +869,10 @@ TextureImporter:
       name: stage_three_31
       rect:
         serializedVersion: 2
-        x: 99
-        y: 33
-        width: 29
-        height: 31
+        x: 100
+        y: 34
+        width: 27
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -890,10 +890,10 @@ TextureImporter:
       name: stage_three_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 33
-        height: 30
+        x: 1
+        y: 3
+        width: 31
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -911,10 +911,10 @@ TextureImporter:
       name: stage_three_33
       rect:
         serializedVersion: 2
-        x: 32
-        y: 2
-        width: 33
-        height: 29
+        x: 33
+        y: 3
+        width: 31
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -932,10 +932,10 @@ TextureImporter:
       name: stage_three_34
       rect:
         serializedVersion: 2
-        x: 65
-        y: 0
-        width: 31
-        height: 30
+        x: 66
+        y: 1
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -953,10 +953,10 @@ TextureImporter:
       name: stage_three_35
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 25
+        x: 97
+        y: 1
+        width: 30
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -973,7 +973,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5366cc50776fab84cb825e311687aa66
     internalID: 0
     vertices: []
     indices: 
