@@ -20,6 +20,7 @@ public class ItemCollector : MonoBehaviour
                 isCarryingItem = true;
                 Destroy(currentItem);
                 UIManager.Instance.ShowPrompt("You got the artifact, put the artifact into the box");
+                AudioManager.instance.Play("PickUp");
             }
             else
             {
@@ -36,10 +37,12 @@ public class ItemCollector : MonoBehaviour
             if (itemsCollected == itemsTotal)
             {
                 GameManager.Instance.OpenGate();
+                AudioManager.instance.Play("GarageOpen");
             }
             else
             {
                 UIManager.Instance.ShowPrompt("Find the next artifact");
+                AudioManager.instance.Play("Drop");
             }
         }
     }
