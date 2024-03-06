@@ -844,8 +844,8 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 11
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_SortingOrder: 21
+  m_Sprite: {fileID: -1391193988281709189, guid: 448b23248a257014983aa31ce6dd92ed, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -865,8 +865,8 @@ Transform:
   m_GameObject: {fileID: 150331843}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2, y: -3.5, z: 0}
-  m_LocalScale: {x: 2.5, y: 0.25, z: 1}
+  m_LocalPosition: {x: 1.977, y: -4.25, z: 0}
+  m_LocalScale: {x: 0.7377779, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -905,17 +905,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.005437076, y: -0.00000011920929}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 4.46875, y: 1.5}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 3.025741, y: 1.5015686}
   m_EdgeRadius: 0
 --- !u!1 &180280372
 GameObject:
@@ -3093,6 +3093,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8367328644923628753, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5207522119024744716, guid: cbb65388543f5274a9ebda2081c2f977, type: 3}
     - target: {fileID: 9164244539726518673, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
       propertyPath: m_Name
       value: Item (2)
@@ -4199,6 +4203,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7283061071273113417, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 7283061071273113417, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 8367328644923628753, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -8292729072236948730, guid: cbb65388543f5274a9ebda2081c2f977, type: 3}
     - target: {fileID: 9164244539726518673, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
       propertyPath: m_Name
       value: Item
@@ -6369,6 +6385,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8367328644923628753, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7488201156765136719, guid: cbb65388543f5274a9ebda2081c2f977, type: 3}
     - target: {fileID: 9164244539726518673, guid: 49bace855a108ff45aa9ed9d2a01413b, type: 3}
       propertyPath: m_Name
       value: Item (1)
@@ -6765,6 +6785,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7632911236135571966, guid: 795e55b7cf3fad94bb7f82918b349155, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5281422124547630143, guid: 03b7d3f0a5019cc47a30a86a46406807, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
